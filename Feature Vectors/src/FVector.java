@@ -1,4 +1,3 @@
-package Occurrence;
 
 import edu.stanford.nlp.tagger.maxent.MaxentTagger;
 import java.io.BufferedReader;
